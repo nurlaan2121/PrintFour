@@ -1,2 +1,4 @@
-package org.example.printfour.service;public interface PhotoService {
+package org.example.printfour.service;
+
+public interface PhotoService {
 }

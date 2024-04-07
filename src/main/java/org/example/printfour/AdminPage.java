@@ -1,2 +1,4 @@
-package org.example.printfour;public class AdminPage {
+package org.example.printfour;
+
+public class AdminPage {
 }
